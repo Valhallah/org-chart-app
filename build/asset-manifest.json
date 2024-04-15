@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/valhallah.github.io/org-chart-app/static/css/main.d1b16244.css",
+    "main.js": "/valhallah.github.io/org-chart-app/static/js/main.36fd549d.js",
+    "static/js/453.90406de6.chunk.js": "/valhallah.github.io/org-chart-app/static/js/453.90406de6.chunk.js",
+    "index.html": "/valhallah.github.io/org-chart-app/index.html",
+    "main.d1b16244.css.map": "/valhallah.github.io/org-chart-app/static/css/main.d1b16244.css.map",
+    "main.36fd549d.js.map": "/valhallah.github.io/org-chart-app/static/js/main.36fd549d.js.map",
+    "453.90406de6.chunk.js.map": "/valhallah.github.io/org-chart-app/static/js/453.90406de6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1b16244.css",
+    "static/js/main.36fd549d.js"
+  ]
+}
