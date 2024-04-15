@@ -28,9 +28,9 @@ const DatePicker: React.FC<DatePickerProps> = ({ onDateChange, selected }) => {
     setSelectedDate(newDate);
     onDateChange(newDate);
   };
-
+  const currentDateTime = new Date().toISOString();
   const minDate = "2017-01-01";
-  const maxDate = "2021-12-31";
+  const maxDate = currentDateTime;
 
   return (
     <>

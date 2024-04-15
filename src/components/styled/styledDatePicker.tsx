@@ -11,7 +11,7 @@ export const StyledHeader = styled(Typography)({
 
 export const StyledInputContainer = styled.div`
 position: absolute;
-right: 10%;
+right: 13%;
 text-align: center;
 margin-top: 100px;
 z-index: 100;
@@ -25,11 +25,11 @@ margin-top: 2%;
 
 export const StyledDateInput = styled.input`
 position: relative;
-padding: 8px;
+padding: 8px 20px;
 border-radius: 4px;
 border: 1px solid darkgray;
 font-family: sans-serif;
-font-size: 19px;
+font-size: 20px;
 cursor: pointer;
 input[type=button] {
     cursor: pointer;

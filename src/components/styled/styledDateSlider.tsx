@@ -6,7 +6,7 @@ import styled from 'styled-components';
 export const StyledSliderContainer = styled.div`
 position: absolute;
 right: 10%;
-width: 160px;
+width: 300px;
 text-align: center;
 z-index: 100;
 `;
