@@ -209,7 +209,7 @@ export default function DataViz() {
 
   return (
     <>
-      <Container style={{ height: "90vh" }}>
+      <Container style={{ height: "85vh" }}>
         {breakpoint ? (
           <>
             <Box component="section">
